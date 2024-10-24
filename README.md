@@ -5,8 +5,6 @@
 
 # Absenteeism Data Set
 
-A brief description of what this project does and who it's for
-
 Absenteeism Data Set
 https://www.kaggle.com/datasets/HRAnalyticRepository/absenteeism-dataset/data
 GeoJSON file provided by Career Foundry 
