@@ -25,12 +25,19 @@ Tools
 Analysis has been done using Python with the following supporting libraries:
 
 Pandas: for data analysis
+
 Numpy: for mathematical equations
+
 Seaborn: for data visualizations
+
 Matplotlib: for data visualizations
+
 SciPy: for mathematical equations
+
 Scikit-Learn: Machine Learning Algorithims
+
 Folium & JSON: Spatial Analysis
+
 Project Deliverables
 The project culminates in a comprehensive analysis, backed by Python, visualizations, and a narrative that translates complex data into actionable business insights.
 
