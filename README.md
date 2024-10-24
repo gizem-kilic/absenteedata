@@ -1,9 +1,9 @@
 
 
-![absenteeism-e72dc88f72514fbb89f5e0d3740559c5](https://github.com/user-attachments/assets/c6a89e5a-c036-472b-90fe-a475ad44ca27)
+![absenteeism-e72dc88f72514fbb89f5e0d3740559c5](https://github.com/user-attachments/assets/c0973c26-d8f2-4e15-93d8-47a9ff703c61)
 
 
-# Project Title
+# Absenteeism Data Set
 
 A brief description of what this project does and who it's for
 
@@ -23,3 +23,17 @@ Why this data set?
 
 I want to connect my previous professional experience as a recruiter to my data analysis studies and hopefully land a job in HR Analytics. Therefore, this data set and this analysis would make a great addition to my portfolio. 
 
+Tools
+Analysis has been done using Python with the following supporting libraries:
+
+Pandas: for data analysis
+Numpy: for mathematical equations
+Seaborn: for data visualizations
+Matplotlib: for data visualizations
+SciPy: for mathematical equations
+Scikit-Learn: Machine Learning Algorithims
+Folium & JSON: Spatial Analysis
+Project Deliverables
+The project culminates in a comprehensive analysis, backed by Python, visualizations, and a narrative that translates complex data into actionable business insights.
+
+Visualizations: Check out the [Tableau Public Dashboard](https://public.tableau.com/app/profile/gizem.kilic/viz/Book1_17228121040210/Story1) for interactive insights.
